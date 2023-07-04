@@ -1,0 +1,80 @@
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.exe
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.deps.json
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.dll
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.pdb
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Form1.resources
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.dll
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\refint\WinFormsApp4.dll
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.pdb
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\ref\WinFormsApp4.dll
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ybelo\source\repos\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.ResolveComReference.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.exe
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.deps.json
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.pdb
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.ResolveComReference.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Form1.resources
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\refint\WinFormsApp4.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.pdb
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\WinFormsApp4\WinFormsApp4\obj\Debug\net6.0-windows\ref\WinFormsApp4.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.exe
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.deps.json
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.pdb
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.ResolveComReference.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Form1.resources
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\refint\WinFormsApp4.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.pdb
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\ref\WinFormsApp4.dll
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.exe
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.deps.json
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.runtimeconfig.json
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.dll
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\bin\Debug\net6.0-windows\WinFormsApp4.pdb
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.ResolveComReference.cache
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.Form1.resources
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.AssemblyInfo.cs
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.dll
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\refint\WinFormsApp4.dll
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.pdb
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\WinFormsApp4.genruntimeconfig.cache
+D:\Need krch\Работа\Калькулятор дробей\WinFormsApp4\obj\Debug\net6.0-windows\ref\WinFormsApp4.dll
